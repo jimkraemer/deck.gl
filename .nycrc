@@ -1,0 +1,11 @@
+{
+  "all": "true",
+  "sourceMap": false,
+  "instrument": true,
+  "include": [
+    "modules/**/src/**/*.js"
+  ],
+  "exclude": [
+    "modules/test-utils/"
+  ]
+}
